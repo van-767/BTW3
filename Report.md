@@ -1,5 +1,9 @@
 # BÁO CÁO KẾT QUẢ TÌM VÀ SỬA LỖI - CAMPUS BOOKSTORE LAB
-
+# Thành viên nhóm:
+Ngô Văn Tĩnh 24521791
+Bùi Anh Văn 24521973
+Nguyễn Lưu An 24520061
+Tô Minh An 24520072
 ## 1. Tổng quan
 Hệ thống quản trị nhà sách Campus Bookstore được phát triển dựa trên ngôn ngữ PHP. Qua quá trình kiểm tra, tôi đã phát hiện và khắc phục tổng cộng **12 lỗi**, bao gồm 3 lỗi cú pháp (Syntax) và 9 lỗi logic (Business Logic).
 
